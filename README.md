@@ -22,3 +22,4 @@
     - 단 기록을 남기기 위해 저자는 주피터 노트북을 이용할 예정
 
 ### 01-3 마켓과 머신러닝
+- [text](notes/BreamAndSmelt.ipynb)
